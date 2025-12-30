@@ -5,24 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/GleybsonDias/GleybsonDias/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
 
 ---
 
 <p align="center">
-  I'm passionate about technology, education, and creativity.  
-  Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
+  Sou apaixonado por tecnologia e criatividade. Aqui você encontrará meus projetos envolvendo JavaScript, React, Next e IA
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
+  <a href="https://www.linkedin.com/in/gleybson-dias-157469264/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://fernandakipper.com/">
-    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="mailto:gleybsondias.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-gleybsondias.dev@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
