@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Gleybson Dias 👋</h1>
 
 <p align="center">
-  <em> Developer • Tech Content Creator • 1x Microsoft MVP</em>
+  <em> Desenvolvedor Front-end • Analista de Suporte</em>
 </p>
 
 <p align="center">
