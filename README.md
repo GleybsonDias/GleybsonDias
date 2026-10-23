@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  Sou apaixonado por tecnologia e criatividade. Aqui você encontrará meus projetos envolvendo JavaScript, React, Next e IA
+  Sou apaixonado por tecnologia e criatividade. Aqui você encontrará meus melhores projetos
 </p>
 
 <p align="center">
