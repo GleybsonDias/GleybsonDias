@@ -26,15 +26,13 @@
 ---
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-Sou Gleybson Dias de Lima, estudante de Análise e Desenvolvimento de Sistemas e profissional da área de Tecnologia da Informação, com formação técnica em Informática. Tenho grande interesse por tecnologia e inovação, sou focado em meus objetivos, paciente e bastante detalhista — características que aplico diariamente tanto no aprendizado quanto na atuação profissional.
+Sou um Desenvolvedor de Software movido pela curiosidade e pela construção de soluções eficientes, com foco no ecossistema JavaScript e TypeScript. A minha trajetória na área de TI construiu-se sobre uma base técnica sólida de resolução de problemas, evoluindo para o desenvolvimento de aplicações web escaláveis e centradas nas necessidades reais dos utilizadores.
 
-Atualmente, atuo como Analista de Suporte Técnico em TI, trabalhando com sistemas de automação comercial, realizando análise, implementação e suporte para diferentes segmentos do comércio. No dia a dia, lido diretamente com a análise e resolução de erros técnicos, incluindo problemas relacionados a software e banco de dados, muitas vezes desempenhando atividades típicas de um analista de suporte, sempre com foco em soluções eficientes e confiáveis.
+No desenvolvimento de software, concentro os meus repositórios e projetos na stack moderna de Front-end e Full-stack. Construo interfaces dinâmicas e responsivas utilizando React, Next.js e Tailwind CSS, integradas a APIs RESTful estruturadas com Node.js. No nível de dados e arquitetura, utilizo Prisma ORM e bancos de dados relacionais (PostgreSQL), priorizando ativamente princípios de Clean Code e boas práticas de estruturação para garantir projetos limpos, seguros e de fácil manutenção.
 
-Minha trajetória na tecnologia é movida pela curiosidade e pela busca constante por aprendizado. Ao longo da minha formação e experiência prática, adquiri conhecimentos em JavaScript, React e Next.js, além de já ter trabalhado com linguagens como Java, Python (Django) e C, o que ampliou minha visão lógica e minha capacidade de adaptação a diferentes cenários e tecnologias.
+Em paralelo, a minha atuação como Analista de Suporte Técnico N2 confere-me uma visão crítica sobre o ciclo de vida do software. Como referência técnica da equipe, lido diariamente com troubleshooting de sistemas em produção, automação de processos e validação de regras de negócio. Essa vivência prática ensinou-me a entender o comportamento das aplicações em ambientes complexos, a antecipar falhas e a traduzir requisitos operacionais em melhorias técnicas.
 
-Gosto de trabalhar em equipe e acredito que a colaboração é essencial para alcançar grandes resultados. Tenho boa comunicação, experiência em contato direto com clientes e sou proativo na busca por melhorias, sempre disposto a enfrentar novos desafios e evoluir como profissional.
-
-Meu objetivo é seguir em constante aprimoramento, adquirindo novos conhecimentos e experiências que me permitam crescer profissionalmente e contribuir com dedicação, responsabilidade e paixão em projetos diversos e inovadores.
+Acredito que a colaboração e a comunicação clara são essenciais para o sucesso de qualquer projeto de tecnologia. Sou proativo na busca por evolução técnica contínua e estou sempre aberto a novos desafios que me permitam contribuir ativamente com código de qualidade, arquiteturas bem definidas e inovação.
 
 ---
 
@@ -43,9 +41,9 @@ Este GitHub é mais do que apenas um repositório de código — é um espaço q
 
  - Projetos e estudos práticos voltados para desenvolvimento web
 
- - Aplicações utilizando JavaScript, React e Next.js
+ - Aplicações utilizando TypeScript, JavaScript, React e Next.js
 
- - Exercícios e experimentos com Python (Django)
+ - Exercícios e experimentos com Python e Java
 
  - Boas práticas de organização de código e versionamento com Git
 
@@ -61,15 +59,18 @@ Se quiser se conectar, colaborar ou tirar alguma dúvida, fique à vontade para 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=flat&logo=bootstrap)
-![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 
-<h3>⚙️ &nbsp;Back-end</h3>
+<h3>⚙️ &nbsp;Back-end & Banco de Dados</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Django](https://img.shields.io/badge/Django-333?style=flat&logo=django)
