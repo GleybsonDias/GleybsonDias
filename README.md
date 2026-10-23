@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Gleybson Dias 👋</h1>
 
 <p align="center">
-  <em> Desenvolvedor Software</em>
+  <em> Desenvolvedor de Software</em>
 </p>
 
 <p align="center">
